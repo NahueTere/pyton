@@ -14,6 +14,4 @@ for elemento in VEC:
     if elemento not in lista_nueva:
         lista_nueva.append(elemento) 
 
-
-
 print(lista_nueva)
